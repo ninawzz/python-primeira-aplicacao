@@ -1,2 +1,26 @@
-# python-primeira-aplicacao
-Sistema de gerenciamento de restaurantes feito em Python, com cadastro, listagem e ativação/desativação, desenvolvido no curso “Python: crie a sua primeira aplicação” da Alura.
+# 🍽️ Sabor Express
+
+Este projeto foi desenvolvido durante o curso **[Python: crie a sua primeira aplicação](https://www.alura.com.br/curso-online-python-primeira-aplicacao)** da Alura.
+
+## 📌 Descrição
+
+A aplicação é um sistema simples de menu em Python, que permite:
+
+- Cadastrar restaurantes
+- Listar restaurantes
+- Alternar o status (ativo/desativado) dos restaurantes
+
+Tudo isso com uma interface de texto no terminal, utilizando apenas programação procedural.
+
+## 💻 Tecnologias
+
+- Python 3
+- Terminal / Linha de comando
+- `os.system('cls')` para limpar tela (Windows)
+
+## 🚀 Como executar
+
+Clone este repositório e execute o arquivo principal:
+
+```bash
+python nome_do_arquivo.py

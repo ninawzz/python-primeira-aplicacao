@@ -1,6 +1,6 @@
 # 🍽️ Sabor Express
 
-Este projeto foi desenvolvido durante o curso **[Python: crie a sua primeira aplicação](https://www.alura.com.br/curso-online-python-primeira-aplicacao)** da Alura.
+Este projeto foi desenvolvido durante o curso **[Python: crie a sua primeira aplicação](https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao)** da Alura.
 
 ## 📌 Descrição
 

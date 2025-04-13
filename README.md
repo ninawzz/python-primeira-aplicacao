@@ -23,4 +23,4 @@ Tudo isso com uma interface de texto no terminal, utilizando apenas programaçã
 Clone este repositório e execute o arquivo principal:
 
 ```bash
-python nome_do_arquivo.py
+app.py
